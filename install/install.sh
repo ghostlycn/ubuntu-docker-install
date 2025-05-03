@@ -9,7 +9,7 @@ ICON_FAIL="✘"
 
 trap 'on_interrupt' INT
 on_interrupt() {
-  echo -e "\n${RED}🚫 작업이 취소되었습니다.${NC}"
+  echo -e "\n${RED}🚫 Has been canceled.${NC}"
   exit 130
 }
 

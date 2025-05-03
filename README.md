@@ -11,12 +11,12 @@
 ### 실행방법
 ---
 ```bash
-  cd ubuntu-docker-install
+  cd install
   chmod +x install.sh
   ./install.sh
 ```
 or
 ```bash
-  cd ubuntu-docker-install
+  cd install
   bash install.sh
 ```
